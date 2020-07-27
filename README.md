@@ -1,4 +1,4 @@
-<div style="text-align: center;">Hello, I'm Camila 🐾</div>
+<div style="text-align: center">Hello, I'm Camila 🐾</div>
 
 JavaScript | React | CSS | HTML | Flutter | React native
 
