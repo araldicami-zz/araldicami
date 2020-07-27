@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, I'm Camila 🐾
+
+JavaScript | React | CSS | HTML | Flutter | React native
+
+I'm a brazilian front end developer
+
+Crazy cat lady, and book lover 😻 📘
+
 
 <!--
 **araldicami/araldicami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
