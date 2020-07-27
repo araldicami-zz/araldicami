@@ -1,23 +1,7 @@
-<div style="text-align: center">Hello, I'm Camila 🐾</div>
-
-JavaScript | React | CSS | HTML | Flutter | React native
-
-I'm a brazilian front end developer
-
-Crazy cat lady, and book lover 😻 📘
-
-
-<!--
-**araldicami/araldicami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span style="text-align: center; font-size: 18px;">Hello, I'm Camila 🥰</span>
+<br />
+<span style="text-align: center;">JavaScript | React | CSS | HTML | Flutter | React native</span>
+<br />
+<span style="text-align: center;">I live in Brazil, and I'm a front end developer since 2018.</span>
+<br />
+<span style="text-align: center;">Crazy cat lady and a book lover 💕</span>
