@@ -1,5 +1,3 @@
-<h2 align="left">Hello, I'm Camila 🐱‍👤</h2>
-<h4 align="left">JavaScript | React | CSS | HTML | React native</h4>
-<h4 align="left">I'm a front-end developer, and a crazy cat lady. In my free times I love to read books, and, I'm a star wars lover.</h4>
+# Welcome! I'm Camila 🐱‍👤
 
-<h2>Good bye old friend, may the force be with you.</h2>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/araldicami/)
